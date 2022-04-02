@@ -1,0 +1,40 @@
+footer ul{
+    float: center;
+    text-align: center;
+    color: rgb(12, 12, 12);
+    background-color:beige;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+header ul{
+    text-align: right;
+    margin-bottom: 100px;
+    font-size: 20px;
+    background-color:beige;
+    color:rgb(0, 0, 0)
+
+}
+img{
+    width: 400px;
+    height:200px;
+    margin-left: 400px;
+    
+}
+
+input{
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 400px;
+    margin-bottom:10px;
+} 
+.boton1{
+    width: 200px;
+    height: 30px;
+    margin-left: 400px;
+}
+.boton2{
+    width: 200px;
+    height: 30px;
+}
